@@ -1,3 +1,3 @@
 # ecommerce-category-list-show
-# show category wise item
-# show category list parent category wise
+# task1 show category wise item
+# task2 show category list parent category wise
